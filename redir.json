@@ -1,0 +1,62 @@
+[
+	{
+		"path": "/discord",
+		"redir": "https://modtech.app/discord"
+	},
+	{
+		"path": "/dev/daan/twitter",
+		"redir": "https://twitter.com/daangamesdg"
+	},
+	{
+		"path": "/dev/daan/steam",
+		"redir": "https://steamcommunity.com/profiles/76561198367610655"
+	},
+	{
+		"path": "/dev/daan/youtube",
+		"redir": "https://www.youtube.com/channel/UCn9awHv18qumi57E2Hv_jMw"
+	},
+	{
+		"path": "/dev/daan/youtube2",
+		"redir": "https://www.youtube.com/channel/UCik27tNXBhE_H62XgsLxSbQ"
+	},
+	{
+		"path": "/dev/daan/twitch",
+		"redir": "https://twitch.tv/daangamesdg"
+	},
+	{
+		"path": "/dev/daan/github",
+		"redir": "https://github.com/DaanGamesDG"
+	},
+	{
+		"path": "/dev/j3/site",
+		"redir": "https://0j3.xyz"
+	},
+	{
+		"path": "/dev/j3/youtube",
+		"redir": "https://www.youtube.com/channel/UCn9awHv18qumi57E2Hv_jMw"
+	},
+	{
+		"path": "/dev/j3/twitch",
+		"redir": "https://twitch.tv/0J3_0"
+	},
+	{
+		"path": "/dev/j3/github",
+		"redir": "https://github.com/0J3"
+	},
+	{
+		"path": "/dev/j3/gitlab",
+		"redir": "https://gitlab.com/0J3"
+	},
+	{
+		"path": "/dev/morgan/twitch",
+		"redir": "https://twitch.tv/morgandgamer"
+	},
+	{
+		"path": "/dev/morgan/twitter",
+		"redir": "https://twitter.com/theMorganDGamer"
+	},
+	{
+		"path": "/dev/morgan/youtube",
+		"redir": "https://www.youtube.com/channel/UCImqo1yntv0G6AYuFD4tmsg"
+	}
+]
