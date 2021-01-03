@@ -24,3 +24,9 @@ body > * {
 a {
 	color: #3391ff !important;
 }
+.FadeIn {
+	display: none;
+	transition: left 1.5s;
+	position: relative;
+	left: 2em;
+}

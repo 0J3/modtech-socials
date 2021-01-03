@@ -48,6 +48,10 @@
 		"redir": "https://gitlab.com/0J3"
 	},
 	{
+		"path": "/dev/j3/twitter",
+		"redir": "https://twitter.com/0J3_3"
+	},
+	{
 		"path": "/dev/morgan/twitch",
 		"redir": "https://twitch.tv/morgandgamer"
 	},
