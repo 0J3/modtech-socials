@@ -1,0 +1,14 @@
+[
+	{
+		"path": "/",
+		"shows": "/files/index.html"
+	},
+	{
+		"path": "/dev/",
+		"shows": "/files/dev/index.html"
+	},
+	{
+		"path": "/discord",
+		"redir": "https://modtech.app/discord"
+	}
+]
