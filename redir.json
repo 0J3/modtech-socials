@@ -62,5 +62,21 @@
 	{
 		"path": "/dev/morgan/youtube",
 		"redir": "https://www.youtube.com/channel/UCImqo1yntv0G6AYuFD4tmsg"
+	},
+	{
+		"path": "/dev/marcus/",
+		"redir": "https://social.modtech.app/dev/marc/"
+	},
+	{
+		"path": "/dev/marc/twitter",
+		"redir": "https://twitter.com/marcusnaw"
+	},
+	{
+		"path": "/dev/marc/github",
+		"redir": "https://github.com/MarcusPlays1"
+	},
+	{
+		"path": "/dev/marc/gitlab",
+		"redir": "https://gitlab.com/MarcusPlays"
 	}
 ]
